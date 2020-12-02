@@ -1,0 +1,8 @@
+This setup was designed to be as advanced as possible, even though it should
+only be a one time thing for the host system. 
+Every byte is secured, so if something goes wrong, like a memory error, power
+outage, unplug, or other thing that disrupts the installation, it doesn't have
+to completely restart art errors, and will start back at the most recent safe state of
+installation. There are also a couple memory checks during installation to show
+the user what is going on behind the scenes, along with error checks to catch all 
+installation errors.

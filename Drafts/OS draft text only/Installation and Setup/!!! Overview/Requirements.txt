@@ -1,0 +1,7 @@
+Installation Requirements:
+14 Exabytes of Disk Space
+13.6 Petahertz Processor
+1500 Petabytes RAM
+Power supply of at least 22000 mAh
+Screen Resolution of 32000x32000 or
+higher

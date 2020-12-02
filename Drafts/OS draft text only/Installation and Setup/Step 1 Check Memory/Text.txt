@@ -1,0 +1,5 @@
+Before we begin the installation of Meadows, we will be checking memory to make
+sure you meet the requirements
+memory check will start automatically in 5 seconds, and will last between 30 seconds to
+2 minutes. If it takes longer, the setup will end, as the requirements will not be
+high enough

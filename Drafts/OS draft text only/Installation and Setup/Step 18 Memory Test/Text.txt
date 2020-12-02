@@ -1,0 +1,24 @@
+Testing your memory to make sure everything is going right.
+Disk space used for installation: ***
+Memory required to continue: ***
+Total disk space on system: ***
+Total disk space on current partition: ***
+if everything looks ok, continue, if not, you can choose to restart installation
+WARNING! ALL FILES WILL BE ERASED, AND YOU WILL GO BACK TO STEP 1
+SETUP FILES WILL REMAIN, BUT THE SYSTEM FILES WON'T
+<Continue installation>
+<Restart installation>
+WARNING! You cannot undo this! Are you sure you want to restart the installation?
+<Yes>
+<No>
+Aborted
+<Continue installation>
+<Restart installation>
+Restarting installation, do not power off your computer or eject any media
+Deleted files: ***
+Files remaining: ***
+Files total: ***
+Disk space cleared: ***
+Disk space remaining: ***
+Disk space total: ***
+Restarting in 5 seconds

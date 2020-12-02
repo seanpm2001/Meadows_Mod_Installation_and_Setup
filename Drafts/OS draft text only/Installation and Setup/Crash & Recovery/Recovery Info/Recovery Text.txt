@@ -1,0 +1,12 @@
+Your system crashed during the previous installation, but worry not! All is not
+lost. Your system will now try and find a restore point and remove corrupt installation
+errors and continue. 
+<click here when you are ready>
+checking for errors 0.000%
+errors found: ***
+errors resolved: ***
+DO NOT SHUT DOWN OR UNPLUG ANY MEDIA. EVERYTHING WILL BE LOST IF THIS IS DONE
+looking for recovery point: 0.000%
+DO NOT SHUT DOWN OR UNPLUG ANY MEDIA. EVERYTHING WILL BE LOST IF THIS IS DONE
+installation will continue when you are ready
+<resume installation>

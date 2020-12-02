@@ -1,0 +1,9 @@
+Do you want to take the web check to make sure the internet works? You can skip
+this and try after installation
+
+<Yes>
+<No, continue installation>
+
+Download speed: ***
+Upload speed: ***
+Connection speed: ***

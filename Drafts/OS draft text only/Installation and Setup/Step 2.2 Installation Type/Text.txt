@@ -1,0 +1,15 @@
+Select the version of your installation
+
+><
+
+Select the installation interface
+
+Max - Text, images, and background graphics
+Imageboard - Text and images on a solid color background
+Text only - ASCII and plain text only
+RAW - Text only with no ASCII art
+
+Extra installation options
+
+Slow - Lets you read through info, and have more time to prepare
+Fast - Limited info, fast install

@@ -1,0 +1,3 @@
+Checking installation image for damage and authenticity
+Copies that are not genuine may be harmful, and will be
+rejected. 

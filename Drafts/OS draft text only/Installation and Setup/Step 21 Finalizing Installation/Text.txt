@@ -1,0 +1,22 @@
+The setup is almost complete, the system has to finalize and check everything to make
+sure it is ok
+DO NOT RESTART YOUR COMPUTER OR UNPLUG MEDIA
+Checking Disk: ***
+Errors found: ***
+Errors found! They are serious
+<Resolve errors>
+Resolving errors:
+DO NOT RESTART YOUR COMPUTER OR UNPLUG MEDIA
+Error count: ***
+Errors removed: ***
+Errors fixed, continuing the finalization
+DO NOT RESTART YOUR COMPUTER OR UNPLUG MEDIA
+Setting up settings: 0.000% complete
+Setting up settings: 100.000% complete
+Setting up users: 0.000% complete
+Setting up users: 100.000% complete
+Setting up files: 0.000% complete
+Setting up files: 100.000% complete
+Setting up system: 0.000% complete
+Setting up system: 100.000% complete
+everything looks good! Welcome to your new computer!

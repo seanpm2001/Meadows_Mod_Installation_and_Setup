@@ -1,0 +1,10 @@
+Set up your network here
+If you are on a public network that you don't own, make sure
+No-one else is on other than staff
+it is secure
+you know what you are doing
+if not, you can take the risk, or you can setup later
+home networks follow the same rules
+<home network>
+<public network>
+<detect>

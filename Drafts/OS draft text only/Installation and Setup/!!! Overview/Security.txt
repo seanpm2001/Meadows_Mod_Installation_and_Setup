@@ -1,0 +1,5 @@
+There is a web part of the installation to test your network connection.
+For installation, you can choose to set up the network later, or you can
+skip the web test. If not, you can go through it, it is in a secure environment 
+that goes off your own network, and not a public network, unless it is setup on
+one

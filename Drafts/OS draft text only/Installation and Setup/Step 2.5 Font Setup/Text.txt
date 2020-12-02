@@ -1,0 +1,23 @@
+You can change fonts
+the default setup font you are seeing is Calibri
+You can change it for the system
+Titles
+<Select Font>
+File Names
+<Select Font>
+File Extensions
+<Select Font>
+Clock
+<Select Font>
+Setup
+<Select Font>
+Documents
+<Select Font>
+Subtitles
+<Select Font>
+Captions
+<Select Font>
+Power
+<Select Font>
+Lock Screen
+<Select Font>

@@ -1,0 +1,5 @@
+Font: Calibri
+Font Size: 12 pt 16 pt 24 pt 32 pt 48 pt 54 pt 72 pt
+Screen Resolution: 7680x4320 15000x15000 32000x32000
+Framerate: 1000 FPS
+Color: RGB 128 bit

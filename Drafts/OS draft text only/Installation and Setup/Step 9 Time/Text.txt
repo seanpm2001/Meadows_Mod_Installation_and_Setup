@@ -1,0 +1,3 @@
+Set up system time
+This can be automatically updated later if you enable time sync right now
+Select time zone

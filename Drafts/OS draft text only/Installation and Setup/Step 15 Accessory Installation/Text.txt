@@ -1,0 +1,7 @@
+Installing accessories
+0.000% complete
+100.000% complete
+Do you want to test some accessories? You can do this now, or after the installation
+is complete.
+<yes>
+<no, continue installation>

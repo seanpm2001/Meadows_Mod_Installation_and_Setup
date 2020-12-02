@@ -1,0 +1,7 @@
+Detecting Keyboard and mouse
+Please plug in a keyboard
+Please plug in a mouse
+Set up your keyboard
+Set up your mouse
+Click this to continue
+Type CONFIRM then enter 1239 then press ENTER to continue
